@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "mcheli",
+    "name": "MC Helicopter",
+    "description": "Mcheli Overdrive - fork of both Mcheli and Mcheli-Ext special thanks to Murachiki27 for the ability to port this amazing fork to 1.12.2",
+    "version": "1.1.4",
+    "mcversion": "1.12.2",
+    "old_url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=14837",
+    "url": "https://forum.civa.jp/viewtopic.php?f=3&t=1146&p=4887#p4887",
+    "updateUrl": "",
+    "authors": ["EMB4", "Murachiki27"],
+    "credits": "Created By EMB4 and Murachiki27 - special thanks to Fureniku for the permission to upload the original mod with various improvements - thanks to Zealot for original car audios - Grzybek woyl aka krftv for original models Hamzah for developer support Moc for the source code for 1.7.10 Edwardg2 for help with development and many others. If we missed someone for credit please let us know at ragexprince684@gmail.com .",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
